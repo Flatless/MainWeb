@@ -39,6 +39,31 @@ hr{
     margin: 0 auto;
 }
 
+
+/*BUTTON UP*/
+
+html{
+    scroll-behavior: smooth;
+}
+
+.gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: yellow;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+
+}
+
+
+
+
 /*Header*/
 .top-head{
     display: flex;

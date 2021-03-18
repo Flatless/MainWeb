@@ -56,6 +56,12 @@
       cursor: pointer;
   
   }
+
+  .website-name p{
+    font-size: 12px;
+    color: white;
+}
+
   
   /***** JS *****/
   
