@@ -306,12 +306,14 @@
 }
 
 .artikel-post-title{
+    
     font-size: 3rem;
-    margin: 1.5rem 0 2rem;
+    margin: 1.5rem 0 0rem;
     text-transform: uppercase;
 }
 
 .artikel-post-text{
+    margin-top: 2rem;
     margin-bottom: 3rem;
     font-size: 1.4rem;
 
@@ -330,6 +332,12 @@
 
 .artikel-post-cta:hover{
     color: yellow;
+}
+
+.penulis{
+    font-style: italic;
+    margin-top: -10;
+    
 }
 
 @media screen and (max-width: 1068px){
